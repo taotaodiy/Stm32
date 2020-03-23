@@ -1,0 +1,10 @@
+Added Component: Designator=Header1(HDR2.54-M-LI-8P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC3.3 Pin=Header1-1
+Added Pin To Net: NetName=GND Pin=Header1-2
+Added Pin To Net: NetName=PB15/SDL Pin=Header1-3
+Added Pin To Net: NetName=PB13/SCL Pin=Header1-4
+Added Pin To Net: NetName=PB12/CS Pin=Header1-5
+Added Pin To Net: NetName=PC6/RS Pin=Header1-7
+Added Pin To Net: NetName=PC7/BLK Pin=Header1-8
+Added Member To Class: ClassName=ÎÂÊª¶È Member=Component Header1 Header x8

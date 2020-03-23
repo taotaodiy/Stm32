@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=PA4/SDA Pin=R8-1
+Removed Pin From Net: NetName=VCC Pin=R8-2
+Removed Pin From Net: NetName=PA5/SCL Pin=R10-1
+Removed Pin From Net: NetName=VCC Pin=R10-2
+Removed Pin From Net: NetName=PA4/SDA Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=VCC Pin=U2-5
+Removed Pin From Net: NetName=PA5/SCL Pin=U2-6
+Removed Member From Class: ClassName=梁物業 Member=C8
+Removed Member From Class: ClassName=梁物業 Member=R8
+Removed Member From Class: ClassName=梁物業 Member=R10
+Removed Member From Class: ClassName=梁物業 Member=U2

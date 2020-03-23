@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=D2 Old Footprint=LED_0805_B New Footprint=LEDFULL
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=NetD2_4 Pin=D2-4
+Added Member To Class: ClassName=梁物業 Member=Component C1 10pf
+Added Member To Class: ClassName=梁物業 Member=Component C3 10pf
+Added Member To Class: ClassName=梁物業 Member=Component C5 10uF
+Added Member To Class: ClassName=梁物業 Member=Component C7 0.1uF
+Added Member To Class: ClassName=梁物業 Member=Component C11 220uf
+Added Member To Class: ClassName=梁物業 Member=Component C12 104
+Added Member To Class: ClassName=梁物業 Member=Component C13 22pf
+Added Member To Class: ClassName=梁物業 Member=Component C14 104
+Added Member To Class: ClassName=梁物業 Member=Component Header7 switch
+Added Member To Class: ClassName=梁物業 Member=Component Header8 switch
+Added Member To Class: ClassName=梁物業 Member=Component R2 Res2
+Added Member To Class: ClassName=梁物業 Member=Component R4 1K
+Added Member To Class: ClassName=梁物業 Member=Component R6 10K
+Added Member To Class: ClassName=梁物業 Member=Component R7 1K
+Added Member To Class: ClassName=梁物業 Member=Component R8 1K
+Added Member To Class: ClassName=梁物業 Member=Component R10 10K
+Added Member To Class: ClassName=梁物業 Member=Component R11 1K
+Added Member To Class: ClassName=梁物業 Member=Component R12 1K
+Added Member To Class: ClassName=梁物業 Member=Component R14 330Ω
+Added Member To Class: ClassName=梁物業 Member=Component R15 330Ω
+Added Member To Class: ClassName=梁物業 Member=Component U3 AMS1117-3.3

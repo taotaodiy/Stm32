@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=VCC5 Pin=C14-2
+Added Pin To Net: NetName=VCC3.3 Pin=D2-1
+Added Pin To Net: NetName=VCC3.3 Pin=D3-1
+Added Pin To Net: NetName=VCC3.3 Pin=D4-1
+Added Pin To Net: NetName=VCC3.3 Pin=R15-1
+Added Pin To Net: NetName=VCC3.3 Pin=R16-1
+Added Pin To Net: NetName=VCC5 Pin=U4-16

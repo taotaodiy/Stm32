@@ -1,0 +1,40 @@
+Change Component Comment : Designator=C15 Old Comment=0.1uf New Comment=22pf
+Change Component Comment : Designator=C16 Old Comment=0.1uf New Comment=22pf
+Change Component Comment : Designator=Y2 Old Comment=8MHz New Comment=12MHz
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R13 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R14 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R15 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R16 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R19 Old Comment=10K New Comment=4.7K
+Change Component Comment : Designator=R20 Old Comment=10K New Comment=4.7K
+Change Component Comment : Designator=R17 Old Comment=10K New Comment=330¦¸
+Change Component Comment : Designator=R18 Old Comment=10K New Comment=330¦¸
+Change component parameters: Designator = "P1"; Footprint = "HDR2.54-LI-4P"; UniqueID = "\RKXMEJLU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "HDR2.54-LI-4P"; UniqueID = "\UWATHXKA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "X2"; UniqueID = "\ATEBAABU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4"; Footprint = "X2"; UniqueID = "\YDBWWGKW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P5"; Footprint = "HDR2.54-LI-4P"; UniqueID = "\AVVMGBZB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ÎÂÊª¶È Member=Component Header9 switch
+Added Member To Class: ClassName=ÎÂÊª¶È Member=Component P3 P2
+Added Member To Class: ClassName=ÎÂÊª¶È Member=Component R6 10K

@@ -1,0 +1,13 @@
+Added Component: Designator=H1(BLUETOOTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(DHT11)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TXD2 Pin=H1-2
+Added Pin To Net: NetName=RXD2 Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=VCC5 Pin=H1-5
+Added Pin To Net: NetName=VCC5 Pin=H2-1
+Added Pin To Net: NetName=PA0 Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Member To Class: ClassName=温湿度 Member=Component H1 BLUETOOTH模块
+Added Member To Class: ClassName=温湿度 Member=Component H2 DHT11温湿度传感器

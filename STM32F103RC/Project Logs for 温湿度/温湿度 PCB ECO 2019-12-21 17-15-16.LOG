@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC Pin=H1-1
+Added Pin To Net: NetName=DVCC3.3 Pin=C18-2
+Added Pin To Net: NetName=DVCC3.3 Pin=C19-2
+Added Pin To Net: NetName=DVCC5 Pin=H1-1
+Added Pin To Net: NetName=DVCC3.3 Pin=Header1-1
+Added Pin To Net: NetName=DVCC5 Pin=Header4-9
+Added Pin To Net: NetName=DVCC3.3 Pin=Header5-9
+Added Pin To Net: NetName=DVCC5 Pin=Header6-9
+Added Pin To Net: NetName=DVCC3.3 Pin=Header7-9
+Added Pin To Net: NetName=DVCC3.3 Pin=Header9-9
+Added Pin To Net: NetName=DVCC5 Pin=Header10-9
+Added Pin To Net: NetName=DVCC3.3 Pin=R11-1
+Added Pin To Net: NetName=DVCC3.3 Pin=R12-1
+Added Pin To Net: NetName=DVCC3.3 Pin=R19-1
+Added Pin To Net: NetName=DVCC3.3 Pin=R20-1
+Added Pin To Net: NetName=DVCC3.3 Pin=U5-3
+Added Pin To Net: NetName=DVCC3.3 Pin=U5-7
+Added Pin To Net: NetName=DVCC3.3 Pin=U5-8
+Added Pin To Net: NetName=DVCC3.3 Pin=U6-8
+Change Net Name : Old Net Name=DVCC3.3 New Net Name=VCC3.3
+Change Net Name : Old Net Name=DVCC5 New Net Name=VCC5

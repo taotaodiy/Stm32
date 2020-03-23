@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC5 Pin=B1-2
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=D1-1
+Added Pin To Net: NetName=NetB1_1 Pin=Q1-3
+Added Net: Name=NetB1_1
